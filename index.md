@@ -1,4 +1,4 @@
-<h1>In dieser Hausaufgabe wirst du eine Webseite zu deinem Lieblingscharakter 
+In dieser Hausaufgabe wirst du eine Webseite zu deinem Lieblingscharakter 
 aus Filmen oder Büchern erstellen. Hier kannst du zwei Beispiele betrachten
 
 Herr der Ringe dreht sich vor allem um Frodo, der den einen Ring zu zerstören hat. Allerdings ist nicht er der wahre Held, sondern sein Gärtner Sam.
